@@ -13,3 +13,6 @@ INSERT INTO Employees
 (FirstName, MiddleName, LastName,Jobtitle,HireDate, Salary)
 VALUES('Mi', 'Pet', 'Ivanov','Engineer','2021-05-21',1000),
       ('Mitko', 'Pe
+
+
+what is normalizerd DB- a DB with no repatings entries.
